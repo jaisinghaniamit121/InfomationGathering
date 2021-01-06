@@ -9,7 +9,7 @@ Steps in Terminal
   
 1) Enter the below mentioned command in the terminal.
 
-     Syntax: python3 inforecon.py <DomainName>
+     Syntax: python3 inforecon.py Domain_Name
      
      Example: python3 inforecon.py "github.com"
      
